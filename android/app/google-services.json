@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374284103429",
+    "project_id": "ehireapp",
+    "storage_bucket": "ehireapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374284103429:android:c9b9bf404f2d8f4f06916c",
+        "android_client_info": {
+          "package_name": "com.ahmed.ehire_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374284103429-rc370tqkivfvl9laqnm9hfvmiiv1477l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbrmmfIUBnqavPK8awKlAPEP20zRXaEvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374284103429-rc370tqkivfvl9laqnm9hfvmiiv1477l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
